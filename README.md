@@ -50,17 +50,17 @@ This project demonstrates how to integrate TinyMCE into a Next.js website and us
 
 - What is your project named? tiny
 
-- Would you like to use TypeScript? No / Yes
+- Would you like to use TypeScript?  Yes
 
-- Would you like to use ESLint? No / Yes
+- Would you like to use ESLint?  Yes
 
-- Would you like to use Tailwind CSS? No / Yes
+- Would you like to use Tailwind CSS?  Yes
 
-- Would you like to use <code>src/</code> directory? No / Yes
+- Would you like to use <code>src/</code> directory?  Yes
 
-- Would you like to use App Router? (recommended) No / Yes
+- Would you like to use App Router? (recommended)  Yes
 
-- Would you like to customize the default import alias (@/*)? No / Yes
+- Would you like to customize the default import alias (@/*)? No 
 
 - What import alias would you like configured? @/*
 
